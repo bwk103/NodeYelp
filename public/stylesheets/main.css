@@ -9,3 +9,12 @@
 .thumbnail .caption-full {
   padding: 9px;
 }
+
+#deleteForm {
+  display: inline;
+}
+
+#map {
+  height: 400px;
+  width: 100%
+}
